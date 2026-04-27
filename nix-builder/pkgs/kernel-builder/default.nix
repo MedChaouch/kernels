@@ -52,7 +52,7 @@ rustPlatform.buildRustPackage {
   cargoLock = {
     lockFile = ../../../Cargo.lock;
     outputHashes = {
-      "huggingface-hub-0.0.1" = "sha256-OblvpHKTc3/d4s6WREf6dy492FVbpASvJl6v1Z1mwVM=";
+      "huggingface-hub-0.0.1" = "sha256-0HjQUEAH/EiG8/1snEWYRteidR+zJq0yct164+6K+IY=";
     };
   };
 
